@@ -1,0 +1,6 @@
+{
+  "name": "Config Server",
+  "description": "Config Server demo project.",
+  "website": "https://github.com/garashis/configserver",
+  "success_url": "/index.html"
+}
